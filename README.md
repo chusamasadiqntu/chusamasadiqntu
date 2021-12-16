@@ -23,7 +23,6 @@
 [youtube]:   https://www.youtube.com/channel/UCQTcyzcyVgruoTWul6QEUyA
 [instagram]: https://www.instagram.com/ch.usamasadiq/
 [linkedin]:  https://www.linkedin.com/in/chusamasadiq/
-[facebook]:  https://www.facebook.com/mianusamasadiq
+[facebook]:  https://www.facebook.com/mianusamasadiq/
 
 
-<img align="right" alt="GIF" src="https://github.com/chusamasadiq/chusamasadiq/blob/main/code.gif?raw=true" width="400" height="320"
